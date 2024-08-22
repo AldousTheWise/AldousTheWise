@@ -5,6 +5,7 @@
 con otros sabrosos aderezos como JQUERY, VUEJS y BOOTSTRAP.</p>
 <p>Bienvenido, oh viajero, a ser testigo de la odisea que nos enfrentará a bestias y a humanos que aun no han tomado su café mañanero.</p>
 <br>
+<p>PS. Ahora estoy estudiando fullstack de JAVA.</p>
 <br>
 <p>
 Hi, there!
