@@ -1,4 +1,15 @@
-## Hi there 👋
+<html>
+<h1>Hola. Soy Aldo.</h1>
+
+
+
+
+
+![future](https://github.com/user-attachments/assets/0cd00211-f780-48ed-8cc5-3c0227ceceaa)
+
+
+</html>
+
 
 <!--
 **AldousTheWise/AldousTheWise** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
