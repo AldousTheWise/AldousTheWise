@@ -1,5 +1,18 @@
 <html>
 <h1>Hola. Soy Aldo.</h1>
+<p>Soy un desarrollador en progreso, actualmente casteando algo de la Sacra Triada del Desarrollo Web(HTML, CSS, JAVASCRIPT)
+<br> 
+con otros sabrosos aderezos como JQUERY, VUEJS y BOOTSTRAP.</p>
+<p>Bienvenido, oh viajero, a ser testigo de la odisea que nos enfrentará a bestias y a humanos que aun no han tomado su café mañanero.</p>
+<br>
+<br>
+<p>
+Hi, there!
+I'm a front end developer in progress.
+<br>
+Now I can cast some spells from the WebDev Sacred Triad (HTML, CSS and JS) with others flavory tastes like JQuery, Bootstrap and even some VueJs, too.
+</p>
+<p> Welcome, oh wanderer, to being a witness on this oddissey, where I will fight with beasts and no-morning-coffee-humans!</p>
 
 
 
