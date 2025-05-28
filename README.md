@@ -19,7 +19,7 @@ Bienvenido, oh viajero, a ser testigo de esta odisea llena de desafíos, bestias
 ---
 ### 🏅 Certificación
 
-[![Ver insignia](https://images.accredible.com/production/credential_others/9807949-ff58-486b-8977-dcba8126f1c1/public_url)](https://www.acreditta.com/credential/80ed865e-9b32-45d4-b137-0228a5075e5b)
+[![Ver insignia](certTDFullStackJava.jpg)](https://www.acreditta.com/credential/80ed865e-9b32-45d4-b137-0228a5075e5b)
 
 *Desarrollo FullStack Java de aplicaciones - Talento Digital para Chile 2025*
 ---
