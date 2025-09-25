@@ -39,8 +39,9 @@ _(Actualmente en formación y desarrollo)_
 ### 🏅 Certificaciones
 
 - **Desarrollo FullStack Java** - Talento Digital para Chile 2025.
+  <br>
   <a href="https://www.acreditta.com/credential/80ed865e-9b32-45d4-b137-0228a5075e5b">
-    <img src="certTDFullStackJava.jpg" alt="Ver Insignia" width="200">
+    <img src="certTDFullStackJava.jpg" alt="Ver Insignia" width="30">
   </a>
 - **Seguridad en Redes** - Desafío Latam (En curso).
 - **Data Science** - Oracle ONE - Alura Latam (En curso)
