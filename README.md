@@ -13,7 +13,7 @@ Desarrollador con experiencia en el ecosistema Java y egresado de Talento Digita
 | Proyecto | Descripción | Tecnologías Utilizadas |
 |---|---|---|
 | 🔗 **[Horóscopo Chino]** ([https://github.com/AldousTheWise/horoscopo-chino-jsp-jstl]) | Demo de página de Horoscopo, con control de usuarios y despliegue en HTML| `Java`, `JSP`, `PostgreSQL`, `JSTL` |
-| 🔗 **[Análisis de Ataque SYN Flood]**([https://github.com/AldousTheWise/Analisis-Ataque-SYN-Flood])** | Informe práctico sobre la simulación, detección con Wireshark y mitigación con iptables de un ataque DoS. | `Hping3`, `Scapy`, `Wireshark`, `iptables` |
+| 🔗 **[Análisis de Ataque SYN Flood]**([https://github.com/AldousTheWise/Analisis-Ataque-SYN-Flood]) | Informe práctico sobre la simulación, detección con Wireshark y mitigación con iptables de un ataque DoS. | `Hping3`, `Scapy`, `Wireshark`, `iptables` |
 
 ---
 
