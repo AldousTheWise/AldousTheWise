@@ -1,8 +1,8 @@
 # 👋 Hola, soy Aldo!
 
-### 🌐 Desarrollador Java Fullstack & Analista de Seguridad en Redes.
+### 🌐 Desarrollador Java Fullstack & Analista de Seguridad en Redes
 
-Desarrollador con experiencia en el ecosistema Java y egresado de Talento Digital. Ahora, apalancando mi experiencia de +10 años en atención al cliente y mi conocimiento en desarrollo, me estoy especializando en **Seguridad en Redes** para construir aplicaciones que no solo sean funcionales, sino también seguras y resilientes.
+Desarrollador con experiencia en el ecosistema Java y egresado de Talento Digital. Combino +10 años en atención al cliente y conocimiento técnico, especializándome en **Seguridad en Redes** y actualmente perfeccionando mis habilidades en **Data Science** en el programa ONE de Oracle + Alura Latam.
 
 ⚡ **Fun fact:** Soy más simpático después de haber dormido todas mis horas.
 
@@ -12,8 +12,9 @@ Desarrollador con experiencia en el ecosistema Java y egresado de Talento Digita
 
 | Proyecto | Descripción | Tecnologías Utilizadas |
 |---|---|---|
-| 🔗 **[Horóscopo Chino]** ([https://github.com/AldousTheWise/horoscopo-chino-jsp-jstl]) | Demo de página de Horoscopo, con control de usuarios y despliegue en HTML| `Java`, `JSP`, `PostgreSQL`, `JSTL` |
-| 🔗 **[Análisis de Ataque SYN Flood]**([https://github.com/AldousTheWise/Analisis-Ataque-SYN-Flood]) | Informe práctico sobre la simulación, detección con Wireshark y mitigación con iptables de un ataque DoS. | `Hping3`, `Scapy`, `Wireshark`, `iptables` |
+| 🔗 [Horóscopo Chino](https://github.com/AldousTheWise/horoscopo-chino-jsp-jstl) | Demo de página de horóscopo, con control de usuarios y despliegue en HTML | `Java`, `JSP`, `PostgreSQL`, `JSTL` |
+| 🔗 [Análisis de Ataque SYN Flood](https://github.com/AldousTheWise/Analisis-Ataque-SYN-Flood) | Simulación, detección y mitigación de ataque DoS | `Hping3`, `Scapy`, `Wireshark`, `iptables` |
+| 🔗 [Landing Sumo Chile](https://github.com/AldousTheWise/sumochile) | Landing page institucional responsive | `Vue.js 3`, `TailwindCSS`, `Git`, `Vite` |
 
 ---
 
@@ -22,29 +23,31 @@ Desarrollador con experiencia en el ecosistema Java y egresado de Talento Digita
 #### Desarrollo Fullstack
 ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-%236DB33F.svg?style=for-the-badge&logo=springboot&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-%234FC08D.svg?style=for-the-badge&logo=vuedotjs&logoColor=white)
+![Astro](https://img.shields.io/badge/Astro-151C22?style=for-the-badge&logo=astro&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23336791.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
-![Vue.js](https://img.shields.io/badge/Vue.js-%234FC08D.svg?style=for-the-badge&logo=vuedotjs&logoColor=white)
 
 #### Ciberseguridad y Redes
-_(Actualmente en formación y desarrollo)_
 ![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
 ![Nmap](https://img.shields.io/badge/Nmap-000000?style=for-the-badge&logo=nmap&logoColor=white)
+![Cisco Packet Tracer](https://img.shields.io/badge/Cisco%20Packet%20Tracer-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
+![iptables](https://img.shields.io/badge/iptables-800000?style=for-the-badge)
+![Scapy](https://img.shields.io/badge/Scapy-FF7F50?style=for-the-badge)
 
 ---
 
 ### 🏅 Certificaciones
 
-- **Desarrollo FullStack Java** - Talento Digital para Chile 2025.
-  <br>
-  <a href="https://www.acreditta.com/credential/80ed865e-9b32-45d4-b137-0228a5075e5b">
-    <img src="certTDFullStackJava.jpg" alt="Ver Insignia" width="90">
-  </a>
-- **Seguridad en Redes** - Desafío Latam (En curso).
-- **Data Science** - Oracle ONE - Alura Latam (En curso)
+- **Desarrollo FullStack Java** - Talento Digital para Chile 2025
+- **Front End** - Talento Digital para Chile por DUOC UC
+- **Seguridad en Redes** - Desafío Latam, Cisco Packet Tracer (finalizado)
+- **Data Science** - Actualmente cursando, Oracle ONE + Alura Latam
 
 ---
 
@@ -61,3 +64,4 @@ _(Actualmente en formación y desarrollo)_
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aldo.yanez01@gmail.com)
 
 > 🏹 "El código es el camino, y cada bug es solo una bestia más en la aventura."
+
