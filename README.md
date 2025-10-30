@@ -45,7 +45,7 @@ Desarrollador con experiencia en el ecosistema Java y egresado de Talento Digita
 ### 🏅 Certificaciones
 
 - **Desarrollo FullStack Java** - Talento Digital para Chile 2025
-- **Front End** - Talento Digital para Chile por DUOC UC
+- **Front End Javascript Vuejs** - Talento Digital para Chile por DUOC UC
 - **Seguridad en Redes** - Desafío Latam, Cisco Packet Tracer (finalizado)
 - **Data Science** - Actualmente cursando, Oracle ONE + Alura Latam
 
