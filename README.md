@@ -44,9 +44,9 @@ Desarrollador con experiencia en el ecosistema Java y egresado de Talento Digita
 
 ### 🏅 Certificaciones
 
-- **Desarrollo FullStack Java** - Talento Digital para Chile 2025
+- ![**Desarrollo FullStack Java** - Talento Digital para Chile 2025] (https://www.acreditta.com/credential/80ed865e-9b32-45d4-b137-0228a5075e5b?utm_source=copy&resource_type=badge&resource=80ed865e-9b32-45d4-b137-0228a5075e5b)
 - **Front End Javascript Vuejs** - Talento Digital para Chile por DUOC UC
-- **Seguridad en Redes** - Desafío Latam, Cisco Packet Tracer (finalizado)
+- ![**Seguridad en Redes** - Desafío Latam, Cisco Packet Tracer] (https://www.acreditta.com/credential/579bb66c-f3ed-4e82-8146-cb44053ce5a4?utm_source=copy&resource_type=badge&resource=579bb66c-f3ed-4e82-8146-cb44053ce5a4)
 - **Data Science** - Actualmente cursando, Oracle ONE + Alura Latam
 
 ---
