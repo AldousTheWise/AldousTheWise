@@ -44,11 +44,35 @@ Desarrollador con experiencia en el ecosistema Java y egresado de Talento Digita
 
 ### 🏅 Certificaciones
 
-- [![**Desarrollo FullStack Java** - Talento Digital para Chile 2025](https://www.acreditta.com/_next/image?url=https%3A%2F%2Facreditta-rutas-prod.s3.amazonaws.com%2Fmedia%2Fpublic%2Fbadge_templates%2Fimages%2F1640_badge_template_c21b2226-ea25-4785-aa4a-dca43e2f6562%2Fmedium.png%3Ftime%3D1765922378727&w=1920&q=75)](https://www.acreditta.com/credential/80ed865e-9b32-45d4-b137-0228a5075e5b?utm_source=copy&resource_type=badge&resource=80ed865e-9b32-45d4-b137-0228a5075e5b)
+<a href="https://www.acreditta.com/credential/80ed865e-9b32-45d4-b137-0228a5075e5b" target="_blank">
+  <img
+    src="https://www.acreditta.com/_next/image?url=https%3A%2F%2Facreditta-rutas-prod.s3.amazonaws.com%2Fmedia%2Fpublic%2Fbadge_templates%2Fimages%2F1640_badge_template_c21b2226-ea25-4785-aa4a-dca43e2f6562%2Fmedium.png%3Ftime%3D1765922378727&w=1920&q=75"
+    width="120"
+    alt="Desarrollo Full Stack Java – Talento Digital para Chile 2025"
+  />
+</a>  
+**Desarrollo Full Stack Java** – Talento Digital para Chile (2025)
 
-- **Front End Javascript Vuejs** - Talento Digital para Chile por DUOC UC
-- ![**Seguridad en Redes** - Desafío Latam, Cisco Packet Tracer] (https://www.acreditta.com/credential/579bb66c-f3ed-4e82-8146-cb44053ce5a4?utm_source=copy&resource_type=badge&resource=579bb66c-f3ed-4e82-8146-cb44053ce5a4)
-- **Data Science** - Actualmente cursando, Oracle ONE + Alura Latam
+---
+
+**Front End JavaScript con Vue.js**  
+Talento Digital para Chile · DUOC UC
+
+---
+
+<a href="https://www.acreditta.com/credential/579bb66c-f3ed-4e82-8146-cb44053ce5a4" target="_blank">
+  <img
+    src="https://www.acreditta.com/_next/image?url=https%3A%2F%2Facreditta-rutas-prod.s3.amazonaws.com%2Fmedia%2Fpublic%2Fbadge_templates%2Fimages%2F1640_badge_template_4ad4f3a4-1cbb-4493-b92a-4df013da5f7d%2Fmedium.png%3Ftime%3D1765922547023&w=1920&q=75"
+    width="120"
+    alt="Seguridad en Redes – Cisco Packet Tracer"
+  />
+</a>  
+**Seguridad en Redes** – Desafío Latam · Cisco Packet Tracer
+
+---
+
+**Data Science** – En curso  
+Oracle ONE + Alura Latam
 
 ---
 
