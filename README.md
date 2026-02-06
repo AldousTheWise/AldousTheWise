@@ -74,13 +74,6 @@ Talento Digital para Chile · DUOC UC
 **Data Science** – En curso  
 Oracle ONE + Alura Latam
 
----
-
-### 📊 Mis Estadísticas
-
-![Estadísticas de GitHub de Aldo](https://github-readme-stats.vercel.app/api?username=AldousTheWise&show_icons=true&theme=github_dark&hide_border=true)
-![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=AldousTheWise&layout=compact&theme=github_dark&hide_border=true)
-
 
 ---
 
